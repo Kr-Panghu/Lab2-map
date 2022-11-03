@@ -1,3 +1,11 @@
+# Kr's Map
+
+Author: Kangrui Cen
+
+This is a map that is implemented manually by itself, whose internal data structure is a balanced tree (AVL Tree).
+
+The following are the rules for this assignment.
+
 # Program-Design-and-Data-Structure I/II (2021 Fall & 2022 Spring)
 Course material release page of CS1958/CS1959 for John Class, SJTU. <br>
 **Copy right**: ACM Class 2018
